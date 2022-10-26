@@ -9,6 +9,8 @@
 
 ![Video-Gif720p](https://raw.githubusercontent.com/Solmyrik/SolmLink/main/gitimages/SolmLink%20-%20Google%20Chrome%202022-10-26%2016-40-36.gif)
 
+![Video-Gif720p](https://raw.githubusercontent.com/Solmyrik/SolmLink/main/gitimages/SolmLink%20-%20Google%20Chrome%202022-10-26%2016-41-04.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
