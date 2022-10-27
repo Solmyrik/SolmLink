@@ -7,7 +7,14 @@
   </div>
 </a>
 
+## About the project
+
+
+A URL shortener created using powerful tools that will help you develop and protect your brand
+
 ![Video-Gif720p](https://raw.githubusercontent.com/Solmyrik/SolmLink/main/gitimages/SolmLink%20-%20Google%20Chrome%202022-10-26%2017-01-12.gif)
+
+The ability to switch between light and dark page theme
 
 ![Video-Gif720p](https://raw.githubusercontent.com/Solmyrik/SolmLink/main/gitimages/SolmLink%20-%20Google%20Chrome%202022-10-26%2016-41-04.gif)
 
